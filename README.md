@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BibekRawal5
 - 👀 I’m interested in learning in general.
-- 🌱 I’m currently learning CS with CSIT Undergraduate Course in Nepal along with CS50 .
+- 🌱 I’m currently learning CS with CSIT Undergraduate Course in Nepal.
 - 📫 How to reach me : bibek.rawal.588@gmail.com and @BibekR587 on twitter
 
 <!---
