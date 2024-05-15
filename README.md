@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BibekRawal5
-- 👀 I’m interested in learning in general.
-- 🌱 I’m currently learning CS with CSIT Undergraduate Course in Nepal.
+- 👀 I’m interested in learning Machine Learning especially Deep Learning.
+- 🌱 I’m currently learning CS with CSIT Undergraduate Course at Tribhuvan University, Nepal.
 - 📫 How to reach me : bibek.rawal.588@gmail.com and @BibekR587 on twitter
 
 <!---
