@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @BibekRawal5
-- 👀 I’m interested in learning Machine Learning especially Deep Learning.
-- 🌱 I’m currently Studying CS with BSC. Computer Science and IT Undergraduate Course at Tribhuvan University, Nepal.
-- 📫 How to reach me : bibek.rawal.588@gmail.com 
+# Hi there, I'm Bibek Rawal 👋
+---
 
-<!---
-BibekRawal5/BibekRawal5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+I'm an aspiring **Machine Learning Engineer** and **Data Scientist** passionate about developing and deploying predictive models that solve real-world problems.  
+
+I have hands-on experience in the complete **machine learning pipeline** — from **data preprocessing** and **feature engineering** to **model evaluation** and **deployment**. I’m proficient in **Python** and its ML ecosystem, and I’m always eager to learn and apply new technologies to enhance business outcomes.
+
+- 🔭 Currently working on projects involving **Computer Vision** and **Natural Language Processing**.
+- 🌱 Deepening my understanding of **Generative Adversarial Networks (GANs)** and **Deep Learning architectures**.
+- 👯 Looking to collaborate on **open-source AI projects** and **data-driven applications**.
+- 💬 Ask me about **TensorFlow, Scikit-Learn, NLTK**, and all things **Machine Learning**.
+- 📫 Reach me at **[bibek.rawal.588@gmail.com](mailto:bibek.rawal.588@gmail.com)**
+- ⚡ Fun fact: *Every dataset tells a story — I enjoy uncovering those stories through code!*
+
+---
