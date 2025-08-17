@@ -11,6 +11,5 @@ I have hands-on experience in the complete **machine learning pipeline** — fro
 - 👯 Looking to collaborate on **open-source AI projects** and **data-driven applications**.
 - 💬 Ask me about **Pytorch, TensorFlow, Scikit-Learn, NLTK**, and all things **Machine Learning**.
 - 📫 Reach me at **[bibek.rawal.588@gmail.com](mailto:bibek.rawal.588@gmail.com)**
-- ⚡ Fun fact: *Every dataset tells a story — I enjoy uncovering those stories through code!*
 
 ---
