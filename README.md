@@ -10,6 +10,6 @@ I have hands-on experience in the complete **machine learning pipeline** — fro
 - 🌱 Deepening my understanding of **Generative Adversarial Networks (GANs), Transformers** and **other Deep Learning architectures**.
 - 👯 Looking to collaborate on **open-source AI projects** and **data-driven applications**.
 - 💬 Ask me about **Pytorch, TensorFlow, Scikit-Learn, NLTK**, and all things **Machine Learning**.
-- 📫 Reach me at **[bibek.rawal.588@gmail.com](mailto:bibek.rawal.588@gmail.com)**
+- 📫 Reach me at **[bibek.rawal.588@gmail.com](mailto:bibek.rawal.588@gmail.com)** or **[bibek.rawal.589@gmail.com](mailto:bibek.rawal.589@gmail.com)**
 
 ---
