@@ -1,7 +1,6 @@
 # Hi there, I'm Bibek Rawal 👋
 ---
 
-## 👨‍💻 About Me
 I'm an aspiring **Machine Learning Engineer** and **Data Scientist** passionate about developing and deploying predictive models that solve real-world problems.  
 
 I have hands-on experience in the complete **machine learning pipeline** — from **data preprocessing** and **feature engineering** to **model evaluation** and **deployment**. I’m proficient in **Python** and its ML ecosystem, and I’m always eager to learn and apply new technologies to enhance business outcomes.
